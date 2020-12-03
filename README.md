@@ -2,8 +2,10 @@
 
 🐜 Hard Works Pays Off
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Juhyeoklee)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Juhyeoklee)](https://github.com/anuraghazra/github-readme-stats)-->
 
+📝 Resume : https://www.notion.so/hereisourios/R-sum-744de53421eb4182b286ad62c233d01c
+![](https://camo.githubusercontent.com/bc46a13d4e510f48156960a5591646997128bbfe64e2dbdbd8511e135748a8a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d73776966742d6f72616e67653f6c6f676f3d7377696674)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhyeoklee&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
