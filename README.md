@@ -11,4 +11,4 @@
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Juhyeoklee)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhyeoklee&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhyeoklee&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
